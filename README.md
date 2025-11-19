@@ -7,15 +7,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Clocky
 A simple clock with alarm and stopwatch features made with flutter
->>>>>>> c73468903fe7ea3f8800c3deefee8dcde0c5d053
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/285f999a-7bdb-4cc9-8cb8-229266938081" width="230">
+  <img src="https://github.com/user-attachments/assets/55e8be41-8de6-49c6-808f-3a9feef31907" width="230">
+  <img src="https://github.com/user-attachments/assets/c3a9a685-d710-4a3e-a447-4dd84f0fae68" width="230">
+</div>
+
